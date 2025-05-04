@@ -22,9 +22,9 @@
 
   <p align="center">
     This project visualizes identity by transforming a user's MBTI, moral alignment, and favorite color into layered Voronoi diagrams. Through recursive subdivision and trait-driven visual rules, the system encodes psychological attributes into a unique generative portrait.
-<!--     <br />
-    <a href="https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/pdf/Yonkoma__The_Headaches_of_Iterative_AI_Generation.pdf"><strong>Link to PDF Report»</strong></a>
-    <br /> -->
+    <br />
+    <a href="https://github.com/manguyen0017/Segmented-Generative-Pipeline-Assignment_03/blob/main/Segmented_Generation_for_Qualitative_Data_Visualization.pdf"><strong>Link to PDF Report»</strong></a>
+    <br />
     <br />
     <a href="https://editor.p5js.org/manguyen0017/sketches/mO1DKlAn-"><strong>Link to DEMO prototype></a>
     <br />
@@ -35,7 +35,7 @@
   </p>
 </div>
 
-[![Voronoi][images-fig1]](https://github.com/manguyen0017/Segmented-Generative-Pipeline-Assignment_03/blob/main/images/fig1.png)
+[![Voronoi][images-fig1]](images/fig1.png)
 
 > Figure 1. Full output visual of one complete generative portrait progressing from favorite color to deepest sublayer. Assume all generated figures use the following values by default unless otherwise stated.
 > (Values - HSV: 260 90 80 | MBTI: INFP | Alignment: True Neutral | Seed: 0)
