@@ -55,7 +55,7 @@ MBTI‐based coloration has been explored for static portraits [5], but few syst
 
 ### Built With
 * ChatGPT
-* P5.js (Libraries: p5.js, p5.sound, d3.v5)
+* Libraries: p5.js, ClipperLib.js, d3.v5)
 
 
 ## Methodology
