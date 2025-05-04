@@ -18,7 +18,7 @@
 <div align="center">
   </a>
 
-  <h3 align="center">Segmented Generative Pipeline for Qualitative Data Visualization</h3>
+  <h3 align="center">Segmented Generation for Qualitative Data Visualization</h3>
 
   <p align="center">
     This project visualizes identity by transforming a user's MBTI, moral alignment, and favorite color into layered Voronoi diagrams. Through recursive subdivision and trait-driven visual rules, the system encodes psychological attributes into a unique generative portrait.
