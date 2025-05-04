@@ -35,7 +35,7 @@
   </p>
 </div>
 
-[![Voronoi][images-fig1]](https://github.com/manguyen0017/Segmented-Generative-Pipeline-Assignment_02/blob/main/images/fig1.png)
+[![Voronoi][images-fig1]](https://github.com/manguyen0017/Segmented-Generative-Pipeline-Assignment_03/blob/main/images/fig1.png)
 
 > Figure 1. Full output visual of one complete generative portrait progressing from favorite color to deepest sublayer. Assume all generated figures use the following values by default unless otherwise stated.
 > (Values - HSV: 260 90 80 | MBTI: INFP | Alignment: True Neutral | Seed: 0)
