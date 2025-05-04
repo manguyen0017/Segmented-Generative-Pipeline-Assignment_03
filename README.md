@@ -23,15 +23,16 @@
   <p align="center">
     This project visualizes identity by transforming a user's MBTI, moral alignment, and favorite color into layered Voronoi diagrams. Through recursive subdivision and trait-driven visual rules, the system encodes psychological attributes into a unique generative portrait.
     <br />
-    <a href="https://github.com/manguyen0017/Segmented-Generative-Pipeline-Assignment_03/blob/main/Segmented_Generation_for_Qualitative_Data_Visualization.pdf"><strong>Link to PDF Report»</strong></a>
     <br />
-    <br />
-    <a href="https://editor.p5js.org/manguyen0017/sketches/mO1DKlAn-"><strong>Link to DEMO prototype></a>
-    <br />
+    <a href="https://github.com/manguyen0017/Segmented-Generative-Pipeline-Assignment_03/blob/main/Segmented_Generation_for_Qualitative_Data_Visualization.pdf"><strong>PDF Report</strong></a>
+    &middot;
+    <a href="https://editor.p5js.org/manguyen0017/sketches/mO1DKlAn-"><strong>DEMO Prototype</a>
     <br />
     <a href="https://manguyen.myportfolio.com/">Michael Nguyen</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
+    <br />
+    <br />
   </p>
 </div>
 
